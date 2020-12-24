@@ -13,6 +13,12 @@ Tasarlayan: **Alper Güven**
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+# Ek Açıklamalar
+
+1. Soldaki menü butonu Youtube'da olduğu gibi çalışmaktadır.
+2. Viewport'lar üzerine çalışmadım ancak tasarım yeterince responsive sayılabilir.
+3. Profil sayfasına ulaşmak için sağ üstteki profil ikonuna tıklayabilirsiniz.
+
 # Dosyalar
 
 1. "src" dizinindeki dosya yapısı incelenebilir. Belirli bir tasarım prensibi takip edildiği için çok fazla sayıda dosya var.
